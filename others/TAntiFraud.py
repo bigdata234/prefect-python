@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 from antiFraud.AntiFraud import *
 
 if __name__ == '__main__':
